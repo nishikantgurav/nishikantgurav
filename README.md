@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishikantgurav
-- 👀 I’m interested in Python, Machine Learning, Artificial Intilligence.
+- 👀 I’m interested in Python, Machine Learning, Artificial Intilligence, NLP, GenerativeAI.
 - 🌱 I’m currently learning GANs in AI.
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me -nishikantgurav19@gmail.com
